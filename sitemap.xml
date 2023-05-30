@@ -10,6 +10,12 @@
     <loc>https://vahtras.github.io/foo-template/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://vahtras.github.io/foo-template/aio.html</loc>
+  </url>
+  <url>
+    <loc>https://vahtras.github.io/foo-template/images.html</loc>
+  </url>
+  <url>
     <loc>https://vahtras.github.io/foo-template/index.html</loc>
   </url>
   <url>
@@ -22,10 +28,22 @@
     <loc>https://vahtras.github.io/foo-template/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://vahtras.github.io/foo-template/instructor/aio.html</loc>
+  </url>
+  <url>
+    <loc>https://vahtras.github.io/foo-template/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://vahtras.github.io/foo-template/instructor/index.html</loc>
   </url>
   <url>
+    <loc>https://vahtras.github.io/foo-template/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://vahtras.github.io/foo-template/instructor/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://vahtras.github.io/foo-template/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://vahtras.github.io/foo-template/instructor/profiles.html</loc>
@@ -34,7 +52,13 @@
     <loc>https://vahtras.github.io/foo-template/instructor/reference.html</loc>
   </url>
   <url>
+    <loc>https://vahtras.github.io/foo-template/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://vahtras.github.io/foo-template/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://vahtras.github.io/foo-template/key-points.html</loc>
   </url>
   <url>
     <loc>https://vahtras.github.io/foo-template/profiles.html</loc>
